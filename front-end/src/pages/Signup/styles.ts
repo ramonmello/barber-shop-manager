@@ -18,9 +18,12 @@ export const Content = styled.div`
 
   width: 100%;
   max-width: 700px;
+  max-height: 636px;
+
+  margin: auto 0;
 
   form {
-    margin: 80px 0;
+    margin: 40px 0;
     width: 340px;
     text-align: center;
 
